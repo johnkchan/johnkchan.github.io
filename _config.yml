@@ -1,11 +1,11 @@
 # Site settings
 author: Jonathan Chan
-title: 
+title: Jonathan Chan
 header-img: img/home-bg.png
 email: johnkchan252@gmail.com
 copyright_name: Jonathan Chan
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Reflections on my Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  johnkchan
